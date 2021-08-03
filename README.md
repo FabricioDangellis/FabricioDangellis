@@ -1,4 +1,4 @@
-### Olá, eu sou o Fabrício 👋
+### Olá, eu sou Fabrício
 
 - 🔭 Estudante de Ciência da Computação - UFERSA
  <div>
