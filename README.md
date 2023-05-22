@@ -1,7 +1,7 @@
 ### Hello World!, eu sou Fabrício
 
 - 🔭 Estudante de Ciência da Computação - UFERSA
-- 💻 Interessado/Aspirante em desenvolvimento front end
+- 💻 Interessado/Aspirante a desenvolvedor full stack
 
  <div>
   <a href="https://github.com/FabricioDangellis">
